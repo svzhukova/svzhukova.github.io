@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/academic/</link>
+      <atom:link href="http://localhost:1313/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>http://localhost:1313/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
+      <link>http://localhost:1313/post/get-started/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/get-started/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#программирование&#34;&gt;Программирование&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#иностранные-языки&#34;&gt;Иностранные языки&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&#34;неделя-была-насыщенная&#34;&gt;Неделя была насыщенная&lt;/h1&gt;
+&lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
+&lt;p&gt;Я сделала Лабораторную работу номер 6 по предмету Архитектура компьютеров «операционные системы». В ней я проверяла функционал команды ls&lt;/p&gt;
+&lt;h2 id=&#34;программирование&#34;&gt;Программирование&lt;/h2&gt;
+&lt;p&gt;Я написала код для нахождения числа pi - это было заданием по компьютерному практикуму. Так же я защитил код по предмету Технологии программирования.&lt;/p&gt;
+&lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
+&lt;p&gt;Эту неделю я активно занимаюсь изучением иностранных языков, много внимания уделила английскому и написала сочинение на тему “Modern cities: Disutopia or utopia ?”&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
