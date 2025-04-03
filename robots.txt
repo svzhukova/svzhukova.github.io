@@ -1,7 +1,3 @@
 User-agent: *
 
-<<<<<<< HEAD
-Sitemap: http://localhost:1313/sitemap.xml
-=======
 Sitemap: https://example.com/sitemap.xml
->>>>>>> origin/main
