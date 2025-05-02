@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Academic CV Theme</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:37527/</link>
+      <atom:link href="http://localhost:37527/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Academic CV Theme</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:37527/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Academic CV Theme</title>
-      <link>https://example.com/</link>
+      <link>http://localhost:37527/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/event/example/</link>
+      <link>http://localhost:37527/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/event/example/</guid>
+      <guid>http://localhost:37527/event/example/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -34,10 +34,187 @@
     </item>
     
     <item>
+      <title>✅Пост о прошедшей неделе</title>
+      <link>http://localhost:37527/post/project-management/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37527/post/project-management/</guid>
+      <description>&lt;p&gt;Неделя была не очень насыщенная, так как я болела, но впереди майские праздники!&lt;/p&gt;
+&lt;h2 id=&#34;компьютерный-практикум---arduino-lessons&#34;&gt;Компьютерный практикум - Arduino lessons&lt;/h2&gt;
+&lt;p&gt;На этой неделе был дедлайн по лабораторным работам с микроконтроллерами ардуино. Мы научились зажигать светодид и регулировать его мощность.&lt;/p&gt;
+&lt;h3 id=&#34;микроконтроллеры-arduino-и-светодиоды&#34;&gt;Микроконтроллеры Arduino и светодиоды&lt;/h3&gt;
+&lt;p&gt;Микроконтроллеры &lt;strong&gt;Arduino&lt;/strong&gt; стали популярными благодаря своей доступности и простоте в использовании. Они позволяют создавать множество проектов, включая управление светодиодами. В этом тексте мы рассмотрим, как подключать светодиоды к Arduino и управлять ими.&lt;/p&gt;
+&lt;h3 id=&#34;программа-для-управления-светодиодами&#34;&gt;Программа для управления светодиодами&lt;/h3&gt;
+&lt;p&gt;Пример простейшего кода, который включает и выключает светодиод:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-cpp&#34; data-lang=&#34;cpp&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;ledPin&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;mi&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Пин, к которому подключен светодиод
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;setup&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;pinMode&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ledPin&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;OUTPUT&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Настройка пина как выход
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;loop&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;()&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;digitalWrite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ledPin&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;HIGH&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// Включение светодиода
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;                &lt;span class=&#34;c1&#34;&gt;// Ожидание 1 секунды
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;digitalWrite&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;ledPin&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;LOW&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;// Выключение светодиода
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;  &lt;span class=&#34;n&#34;&gt;delay&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;1000&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;                &lt;span class=&#34;c1&#34;&gt;// Ожидание 1 секунды
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;графическая-схема&#34;&gt;Графическая схема&lt;/h3&gt;
+&lt;p&gt;Ниже представлена схематическая диаграмма с подключениями светодиодов к Arduino:&lt;/p&gt;
+&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
+
+&lt;pre&gt;- Микроконтроллер Arduino
+  - Подключение светодиодов
+    - Светодиод 1
+      - Резистор 220 Ом
+    - Светодиод 2
+      - Резистор 220 Ом&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;изучение-иностранных-языков-&#34;&gt;Изучение иностранных языков 🌍&lt;/h2&gt;
+&lt;p&gt;Почти всю неделю я сидела дома из-за болезни 🤒, и мне удалось уделить много времени просмотру фильмов и сериалов на немецком и английском. Я досмотрела мульсериал &amp;ldquo;Аватар: Легенда об Аанге&amp;rdquo; на немецком 🇩🇪 и смотрела фильмы на английском 🇬🇧.&lt;/p&gt;
+&lt;h3 id=&#34;мультсериал-аватар-легенда-об-аанге-&#34;&gt;Мультсериал &amp;ldquo;Аватар: Легенда об Аанге&amp;rdquo; 🎥&lt;/h3&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/ru/e/e1/%D0%90%D0%B2%D0%B0%D1%82%D0%B0%D1%80_%D0%9B%D0%B5%D0%B3%D0%B5%D0%BD%D0%B4%D0%B0_%D0%BE%D0%B1_%D0%90%D0%B0%D0%BD%D0%B3%D0%B5_%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%B6%D0%B8.jpg&#34; alt=&#34;Аватар: Легенда об Аанге&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;преимущества-изучения-языков-&#34;&gt;Преимущества изучения языков 📚&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Улучшение навыков общения&lt;/strong&gt;: Позволяет общаться с людьми из разных стран.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Культурное обогащение&lt;/strong&gt;: Помогает понять культуру и традиции.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Расширение карьерных возможностей&lt;/strong&gt;: Знание языков открывает новые перспективы в карьере.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Контент, который я смотрела, не только увлекал, но и способствовал улучшению языка. Надеюсь, будущие занятия будут не менее интересными! 🎉&lt;/p&gt;
+&lt;h3 id=&#34;рекомендации-для-изучения-языков&#34;&gt;Рекомендации для изучения языков&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Смотреть фильмы и сериалы с субтитрами&lt;/strong&gt; 🎬&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Читать книги на языке оригинала&lt;/strong&gt; 📖&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Заниматься с языковыми приложениями&lt;/strong&gt; 📱&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Как вы изучаете иностранные языки? Поделитесь своими методами! 😊&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>👩🏼‍🏫 Создание презентаций Markdown</title>
+      <link>http://localhost:37527/post/presentation-make/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37527/post/presentation-make/</guid>
+      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
+&lt;p&gt;Вот обновленная статья о создании презентаций в формате Markdown с добавлением эмоджи и информации о форматировании текста.&lt;/p&gt;
+&lt;h2 id=&#34;создание-презентаций-в-формате-markdown-&#34;&gt;Создание Презентаций в Формате Markdown 🌟&lt;/h2&gt;
+&lt;p&gt;Презентации — это мощный инструмент для передачи информации. Использование Markdown для их создания может упростить процесс благодаря простому и лаконичному синтаксису. Ниже приведены рекомендации и примеры для создания эффективных презентаций в Markdown.&lt;/p&gt;
+&lt;h3 id=&#34;зачем-использовать-markdown-для-презентаций-&#34;&gt;Зачем использовать Markdown для презентаций? 🤔&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Простота&lt;/strong&gt;: Легкий в освоении синтаксис, который позволяет сосредоточиться на содержании, а не на форматировании.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;: Markdown легко конвертируется в HTML, PDF и другие форматы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Инструменты&lt;/strong&gt;: Существует множество инструментов и библиотек для создания слайдов из Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;инструменты-для-создания-презентаций-&#34;&gt;Инструменты для создания презентаций 🛠️&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Reveal.js&lt;/strong&gt;: Позволяет создавать красивые и интерактивные презентации на основе HTML. Markdown можно использовать для упрощения процесса.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandoc&lt;/strong&gt;: Мощный инструмент для конвертации файлов. Позволяет преобразовать Markdown в множество форматов, включая PDF и HTML.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marp&lt;/strong&gt;: Позволяет создавать презентации прямо из Markdown-файлов и поддерживает интеграцию с Visual Studio Code.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;критерии-ввода-&#34;&gt;Критерии ввода 📝&lt;/h3&gt;
+&lt;p&gt;При создании презентаций в формате Markdown важно учитывать следующие критерии:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Четкость и краткость&lt;/strong&gt;: Каждое сообщение должно быть ясным и кратким, чтобы аудитория могла легко его воспринять.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Структура&lt;/strong&gt;: Используйте заголовки и подзаголовки для четкого разделения тем.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Использование списков&lt;/strong&gt;: Списки помогают разбить текст и делают его более удобочитаемым.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Визуальные элементы&lt;/strong&gt;: Изображения и диаграммы могут улучшить восприятие и зрительно отразить ключевые моменты.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;форматирование-текста-&#34;&gt;Форматирование текста ✍️&lt;/h3&gt;
+&lt;p&gt;Markdown поддерживает различные способы форматирования текста:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Жирный текст&lt;/strong&gt;: Для жирного текста используйте двойные звездочки или подчеркнутые символы. Например, &lt;code&gt;**жирный текст**&lt;/code&gt; или &lt;code&gt;__жирный текст__&lt;/code&gt; будет отображаться как &lt;strong&gt;жирный текст&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Курсив&lt;/strong&gt;: Для курсива используйте одинарные звездочки или подчеркнутые символы. Например, &lt;code&gt;*курсив*&lt;/code&gt; или &lt;code&gt;_курсив_&lt;/code&gt; станет &lt;em&gt;курсивом&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Заголовки&lt;/strong&gt;: Используйте решетку (#) перед текстом, чтобы создать заголовки. Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;# Заголовок 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;## Заголовок 2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;### Заголовок 3&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Списки&lt;/strong&gt;: Используйте дефисы или звездочки для создания неупорядоченных списков. Для упорядоченных списков используйте числа. Например:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Пункт 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Пункт 2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;или&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Первый пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. Второй пункт
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;пример-структуры-презентации-в-markdown&#34;&gt;Пример структуры презентации в Markdown&lt;/h3&gt;
+&lt;p&gt;Вот пример структуры слайдов:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок Презентации
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;--- 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 1: Введение
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Краткое представление темы
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Цели и задачи
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 2: Основная идея
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Первый пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Второй пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 3: Заключение
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Основные выводы
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Планы на будущее
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;интересная-диаграмма-&#34;&gt;Интересная диаграмма 📊&lt;/h3&gt;
+&lt;p&gt;Вот диаграмма, отображающая структуру создания презентации:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD;
+    A[Создание Презентации] --&gt; B[Выбор Инструмента]
+    A --&gt; C[Структура Слайдов]
+    A --&gt; D[Критерии Ввода]
+    B --&gt; E[Reveal.js]
+    B --&gt; F[Pandoc]
+    B --&gt; G[Marp]
+    C --&gt; H[Заголовки]
+    C --&gt; I[Списки]
+    C --&gt; J[Визуальные Элементы]
+&lt;/div&gt;
+&lt;h3 id=&#34;заключение-&#34;&gt;Заключение 🎉&lt;/h3&gt;
+&lt;p&gt;Создание презентаций в формате Markdown — это удобный и эффективный способ систематизировать информацию. Используйте указанные инструменты и советы, чтобы сделать свои презентации более привлекательными и доступными для аудитории.&lt;/p&gt;
+&lt;p&gt;Если у вас есть вопросы или необходимые уточнения, не стесняйтесь спрашивать!&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>http://localhost:37527/post/get-started/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>http://localhost:37527/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -67,9 +244,9 @@
     
     <item>
       <title>🧠 Непрерывная интеграция и непрерывное развертывание (CI/CD).</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>http://localhost:37527/post/second-brain/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>http://localhost:37527/post/second-brain/</guid>
       <description>&lt;h1 id=&#34;о-методологии-cicd-простыми-словами--принципы-этапы-плюсы-и-минусы&#34;&gt;О методологии CI/CD простыми словами — принципы, этапы, плюсы и минусы&lt;/h1&gt;
 &lt;h2 id=&#34;подход-cicd-в-последнее-время-много-обсуждается-в-it&#34;&gt;Подход CI/CD в последнее время много обсуждается в IT.&lt;/h2&gt;
 &lt;p&gt;Он часто используется для создания приложений или разработки облачных решений. Но как строится работа по этой методологии и насколько сложно ее внедрить на практике? Об этом мы расскажем в статье.&lt;/p&gt;
@@ -106,41 +283,41 @@
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>http://localhost:37527/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/projects/</guid>
+      <guid>http://localhost:37527/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
+      <link>http://localhost:37527/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
+      <guid>http://localhost:37527/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
+      <link>http://localhost:37527/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
+      <guid>http://localhost:37527/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
+      <link>http://localhost:37527/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
+      <guid>http://localhost:37527/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>📈 Пост по прошедшей неделе 2-8 апреля</title>
-      <link>https://example.com/post/data-visualization/</link>
+      <link>http://localhost:37527/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
+      <guid>http://localhost:37527/post/data-visualization/</guid>
       <description>&lt;h1 id=&#34;эта-неделя-была-сложная&#34;&gt;Эта неделя была сложная&lt;/h1&gt;
 &lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
 &lt;p&gt;Я сделала Лабораторную работу номер 8 по предмету Архитектура компьютеров «операционные системы». В ней я проверяла работала с файлами&lt;/p&gt;
@@ -166,9 +343,9 @@
     
     <item>
       <title>👩🏼‍🏫 Язык разметки Markdown</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>http://localhost:37527/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>http://localhost:37527/post/teach-courses/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
 &lt;h3 id=&#34;почему-markdown-так-популярен&#34;&gt;Почему Markdown так популярен?&lt;/h3&gt;
@@ -246,17 +423,17 @@
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>http://localhost:37527/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>http://localhost:37527/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn JavaScript</title>
-      <link>https://example.com/teaching/js/</link>
+      <link>http://localhost:37527/teaching/js/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/js/</guid>
+      <guid>http://localhost:37527/teaching/js/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -299,7 +476,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:37527/teaching/js/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -376,9 +553,9 @@ data.head()
     
     <item>
       <title>Learn Python</title>
-      <link>https://example.com/teaching/python/</link>
+      <link>http://localhost:37527/teaching/python/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/teaching/python/</guid>
+      <guid>http://localhost:37527/teaching/python/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -421,7 +598,7 @@ data.head()
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:37527/teaching/python/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -497,86 +674,11 @@ data.head()
     </item>
     
     <item>
-      <title>✅ Manage your projects</title>
-      <link>https://example.com/post/project-management/</link>
-      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
-      <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
-&lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
-&lt;p&gt;Simply insert a Markdown code block labelled as &lt;code&gt;markmap&lt;/code&gt; and optionally set the height of the mindmap as shown in the example below.&lt;/p&gt;
-&lt;p&gt;Mindmaps can be created by simply writing the items as a Markdown list within the &lt;code&gt;markmap&lt;/code&gt; code block, indenting each item to create as many sub-levels as you need:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;
-&lt;pre class=&#34;chroma&#34;&gt;
-&lt;code&gt;
-```markmap {height=&#34;200px&#34;}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-&lt;/code&gt;
-&lt;/pre&gt;
-&lt;/div&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;markmap&#34; style=&#34;height: 200px;&#34;&gt;
-
-&lt;pre&gt;- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h2&gt;
-&lt;p&gt;Hugo Blox supports the &lt;em&gt;Mermaid&lt;/em&gt; Markdown extension for diagrams.&lt;/p&gt;
-&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;renders as&lt;/p&gt;
-&lt;div class=&#34;mermaid&#34;&gt;gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-&lt;/div&gt;
-&lt;h2 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h2&gt;
-&lt;p&gt;You can even write your todo lists in Markdown too:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write math example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;- [x]&lt;/span&gt; Write diagram example
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;- [ ]&lt;/span&gt; Do something else
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;renders as&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write math example
-&lt;ul&gt;
-&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Write diagram example&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>An example preprint / working paper</title>
-      <link>https://example.com/publication/preprint/</link>
+      <link>http://localhost:37527/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/</guid>
-      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;https://example.com/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+      <guid>http://localhost:37527/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:37527/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
 &lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -589,9 +691,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>https://example.com/publication/journal-article/</link>
+      <link>http://localhost:37527/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/</guid>
+      <guid>http://localhost:37527/publication/journal-article/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
@@ -610,9 +712,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>https://example.com/publication/conference-paper/</link>
+      <link>http://localhost:37527/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/</guid>
+      <guid>http://localhost:37527/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
   &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;

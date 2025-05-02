@@ -2,45 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/hugo/</link>
-      <atom:link href="https://example.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:37527/tags/hugo/</link>
+      <atom:link href="http://localhost:37527/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:37527/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>http://localhost:37527/tags/hugo/</link>
     </image>
     
     <item>
+      <title>👩🏼‍🏫 Создание презентаций Markdown</title>
+      <link>http://localhost:37527/post/presentation-make/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:37527/post/presentation-make/</guid>
+      <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
+&lt;p&gt;Вот обновленная статья о создании презентаций в формате Markdown с добавлением эмоджи и информации о форматировании текста.&lt;/p&gt;
+&lt;h2 id=&#34;создание-презентаций-в-формате-markdown-&#34;&gt;Создание Презентаций в Формате Markdown 🌟&lt;/h2&gt;
+&lt;p&gt;Презентации — это мощный инструмент для передачи информации. Использование Markdown для их создания может упростить процесс благодаря простому и лаконичному синтаксису. Ниже приведены рекомендации и примеры для создания эффективных презентаций в Markdown.&lt;/p&gt;
+&lt;h3 id=&#34;зачем-использовать-markdown-для-презентаций-&#34;&gt;Зачем использовать Markdown для презентаций? 🤔&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Простота&lt;/strong&gt;: Легкий в освоении синтаксис, который позволяет сосредоточиться на содержании, а не на форматировании.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Совместимость&lt;/strong&gt;: Markdown легко конвертируется в HTML, PDF и другие форматы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Инструменты&lt;/strong&gt;: Существует множество инструментов и библиотек для создания слайдов из Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;инструменты-для-создания-презентаций-&#34;&gt;Инструменты для создания презентаций 🛠️&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Reveal.js&lt;/strong&gt;: Позволяет создавать красивые и интерактивные презентации на основе HTML. Markdown можно использовать для упрощения процесса.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pandoc&lt;/strong&gt;: Мощный инструмент для конвертации файлов. Позволяет преобразовать Markdown в множество форматов, включая PDF и HTML.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marp&lt;/strong&gt;: Позволяет создавать презентации прямо из Markdown-файлов и поддерживает интеграцию с Visual Studio Code.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;критерии-ввода-&#34;&gt;Критерии ввода 📝&lt;/h3&gt;
+&lt;p&gt;При создании презентаций в формате Markdown важно учитывать следующие критерии:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Четкость и краткость&lt;/strong&gt;: Каждое сообщение должно быть ясным и кратким, чтобы аудитория могла легко его воспринять.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Структура&lt;/strong&gt;: Используйте заголовки и подзаголовки для четкого разделения тем.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Использование списков&lt;/strong&gt;: Списки помогают разбить текст и делают его более удобочитаемым.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Визуальные элементы&lt;/strong&gt;: Изображения и диаграммы могут улучшить восприятие и зрительно отразить ключевые моменты.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;форматирование-текста-&#34;&gt;Форматирование текста ✍️&lt;/h3&gt;
+&lt;p&gt;Markdown поддерживает различные способы форматирования текста:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Жирный текст&lt;/strong&gt;: Для жирного текста используйте двойные звездочки или подчеркнутые символы. Например, &lt;code&gt;**жирный текст**&lt;/code&gt; или &lt;code&gt;__жирный текст__&lt;/code&gt; будет отображаться как &lt;strong&gt;жирный текст&lt;/strong&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Курсив&lt;/strong&gt;: Для курсива используйте одинарные звездочки или подчеркнутые символы. Например, &lt;code&gt;*курсив*&lt;/code&gt; или &lt;code&gt;_курсив_&lt;/code&gt; станет &lt;em&gt;курсивом&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Заголовки&lt;/strong&gt;: Используйте решетку (#) перед текстом, чтобы создать заголовки. Например:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;# Заголовок 1&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;## Заголовок 2&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;### Заголовок 3&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Списки&lt;/strong&gt;: Используйте дефисы или звездочки для создания неупорядоченных списков. Для упорядоченных списков используйте числа. Например:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Пункт 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- Пункт 2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;или&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;1. Первый пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;2. Второй пункт
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;пример-структуры-презентации-в-markdown&#34;&gt;Пример структуры презентации в Markdown&lt;/h3&gt;
+&lt;p&gt;Вот пример структуры слайдов:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;# Заголовок Презентации
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gh&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;--- 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 1: Введение
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Краткое представление темы
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Цели и задачи
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 2: Основная идея
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; Первый пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; Второй пункт
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;## Слайд 3: Заключение
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gu&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Основные выводы
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Планы на будущее
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;интересная-диаграмма-&#34;&gt;Интересная диаграмма 📊&lt;/h3&gt;
+&lt;p&gt;Вот диаграмма, отображающая структуру создания презентации:&lt;/p&gt;
+&lt;div class=&#34;mermaid&#34;&gt;graph TD;
+    A[Создание Презентации] --&gt; B[Выбор Инструмента]
+    A --&gt; C[Структура Слайдов]
+    A --&gt; D[Критерии Ввода]
+    B --&gt; E[Reveal.js]
+    B --&gt; F[Pandoc]
+    B --&gt; G[Marp]
+    C --&gt; H[Заголовки]
+    C --&gt; I[Списки]
+    C --&gt; J[Визуальные Элементы]
+&lt;/div&gt;
+&lt;h3 id=&#34;заключение-&#34;&gt;Заключение 🎉&lt;/h3&gt;
+&lt;p&gt;Создание презентаций в формате Markdown — это удобный и эффективный способ систематизировать информацию. Используйте указанные инструменты и советы, чтобы сделать свои презентации более привлекательными и доступными для аудитории.&lt;/p&gt;
+&lt;p&gt;Если у вас есть вопросы или необходимые уточнения, не стесняйтесь спрашивать!&lt;/p&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pandas</title>
-      <link>https://example.com/project/pandas/</link>
+      <link>http://localhost:37527/project/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pandas/</guid>
+      <guid>http://localhost:37527/project/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://example.com/project/pytorch/</link>
+      <link>http://localhost:37527/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/pytorch/</guid>
+      <guid>http://localhost:37527/project/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://example.com/project/scikit/</link>
+      <link>http://localhost:37527/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/scikit/</guid>
+      <guid>http://localhost:37527/project/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>📈 Пост по прошедшей неделе 2-8 апреля</title>
-      <link>https://example.com/post/data-visualization/</link>
+      <link>http://localhost:37527/post/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
+      <guid>http://localhost:37527/post/data-visualization/</guid>
       <description>&lt;h1 id=&#34;эта-неделя-была-сложная&#34;&gt;Эта неделя была сложная&lt;/h1&gt;
 &lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
 &lt;p&gt;Я сделала Лабораторную работу номер 8 по предмету Архитектура компьютеров «операционные системы». В ней я проверяла работала с файлами&lt;/p&gt;
@@ -66,9 +166,9 @@
     
     <item>
       <title>👩🏼‍🏫 Язык разметки Markdown</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>http://localhost:37527/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>http://localhost:37527/post/teach-courses/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
 &lt;h3 id=&#34;почему-markdown-так-популярен&#34;&gt;Почему Markdown так популярен?&lt;/h3&gt;

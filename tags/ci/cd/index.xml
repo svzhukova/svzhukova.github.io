@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CI/CD | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/ci/cd/</link>
-      <atom:link href="https://example.com/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:37527/tags/ci/cd/</link>
+      <atom:link href="http://localhost:37527/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <description>CI/CD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:37527/media/icon_hu_645fa481986063ef.png</url>
       <title>CI/CD</title>
-      <link>https://example.com/tags/ci/cd/</link>
+      <link>http://localhost:37527/tags/ci/cd/</link>
     </image>
     
     <item>
       <title>🧠 Непрерывная интеграция и непрерывное развертывание (CI/CD).</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>http://localhost:37527/post/second-brain/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>http://localhost:37527/post/second-brain/</guid>
       <description>&lt;h1 id=&#34;о-методологии-cicd-простыми-словами--принципы-этапы-плюсы-и-минусы&#34;&gt;О методологии CI/CD простыми словами — принципы, этапы, плюсы и минусы&lt;/h1&gt;
 &lt;h2 id=&#34;подход-cicd-в-последнее-время-много-обсуждается-в-it&#34;&gt;Подход CI/CD в последнее время много обсуждается в IT.&lt;/h2&gt;
 &lt;p&gt;Он часто используется для создания приложений или разработки облачных решений. Но как строится работа по этой методологии и насколько сложно ее внедрить на практике? Об этом мы расскажем в статье.&lt;/p&gt;
