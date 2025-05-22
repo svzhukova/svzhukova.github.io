@@ -2,21 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>http://localhost:37527/tags/academic/</link>
-      <atom:link href="http://localhost:37527/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/tags/academic/</link>
+      <atom:link href="https://example.com/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:37527/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>http://localhost:37527/tags/academic/</link>
+      <link>https://example.com/tags/academic/</link>
     </image>
     
     <item>
+      <title>🎉 Пост по прошедшей неделе 19-25 мая</title>
+      <link>https://example.com/post/week/</link>
+      <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#математический-анализ&#34;&gt;Математический анализ&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#дискретная-математика&#34;&gt;Дискретная математика&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#программирование&#34;&gt;Программирование&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#иностранные-языки&#34;&gt;Иностранные языки&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&#34;неделя-была-тяжелая&#34;&gt;Неделя была тяжелая&lt;/h1&gt;
+&lt;p&gt;Я написала 2 контрольные и защитила лабораиорную работу по программированию&lt;/p&gt;
+&lt;h2 id=&#34;математический-анализ&#34;&gt;Математический анализ&lt;/h2&gt;
+&lt;p&gt;Я долго готовилась и пережила, но написала контрольную работу на 28/30. Это хороший результат&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://rsv.ru/blog/wp-content/uploads/2022/02/matematika-918x516.jpg&#34; alt=&#34;Математика&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;дискретная-математика&#34;&gt;Дискретная математика&lt;/h2&gt;
+&lt;p&gt;Контрольная была по сложной теме, результатов пока нет, но надеюсь на лучшее🤞&lt;/p&gt;
+&lt;h2 id=&#34;программирование&#34;&gt;Программирование&lt;/h2&gt;
+&lt;p&gt;Я защитила лабораторную работу с программой на языке C++ на 4. Так же я почти дописала код для следующей лабораторной&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://habrastorage.org/files/59e/ec1/0dd/59eec10ddaae4ee6ac2d9a95057dc950.png&#34; alt=&#34;Программирование&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
+&lt;p&gt;На этой неделе я уделяла мало времени языкам из-за контрольных, но завтра пары по английскому и немецкому, так что я не переживаю&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://static.tildacdn.com/tild6338-3131-4164-b430-656366303135/neskolko-sovetov-dly.jpg&#34; alt=&#34;Иностранные языки&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
-      <link>http://localhost:37527/post/get-started/</link>
+      <link>https://example.com/post/get-started/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:37527/post/get-started/</guid>
+      <guid>https://example.com/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
