@@ -2,12 +2,12 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://svzhukova.github.io/en/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/ru/sitemap.xml</loc>
+    <loc>https://svzhukova.github.io/ru/sitemap.xml</loc>
     
       <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     

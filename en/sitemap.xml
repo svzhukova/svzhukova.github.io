@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/authors/</loc>
+    <loc>https://svzhukova.github.io/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://svzhukova.github.io/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/"
+                href="https://svzhukova.github.io/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="https://svzhukova.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://svzhukova.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/publication_types/"
+                href="https://svzhukova.github.io/ru/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/publication_types/"
+                href="https://svzhukova.github.io/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://svzhukova.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://svzhukova.github.io/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="https://svzhukova.github.io/tags/"
                 />
   </url>
 </urlset>
