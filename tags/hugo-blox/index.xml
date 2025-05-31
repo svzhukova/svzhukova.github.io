@@ -2,21 +2,217 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Blox | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/hugo-blox/</link>
-      <atom:link href="https://example.com/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://svzhukova.github.io/tags/hugo-blox/</link>
+      <atom:link href="https://svzhukova.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://svzhukova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
-      <link>https://example.com/tags/hugo-blox/</link>
+      <link>https://svzhukova.github.io/tags/hugo-blox/</link>
     </image>
     
     <item>
+      <title>🎉 Linux Distributions</title>
+      <link>https://svzhukova.github.io/post/linux/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://svzhukova.github.io/post/linux/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#linux-distributions-an-overview&#34;&gt;Linux Distributions: An Overview&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;linux-distributions-an-overview&#34;&gt;Linux Distributions: An Overview&lt;/h3&gt;
+&lt;p&gt;Linux distributions, often referred to as &amp;ldquo;distros,&amp;rdquo; are various versions of the Linux operating system that package the Linux kernel, software, and libraries to provide a complete operating system for users. Each distribution caters to different needs, ranging from general-purpose desktop environments to specialized systems suited for servers or scientific computing.&lt;/p&gt;
+&lt;h4 id=&#34;what-is-a-linux-distribution&#34;&gt;What is a Linux Distribution?&lt;/h4&gt;
+&lt;p&gt;A Linux distribution is a collection of software that includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Linux kernel: Essential for interacting with your hardware.&lt;/li&gt;
+&lt;li&gt;System libraries and utilities: These are tools that allow the user to manage and interact with the system.&lt;/li&gt;
+&lt;li&gt;Package management system: Tools to install, update, and manage installed software applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;common-features-of-linux-distributions&#34;&gt;Common Features of Linux Distributions&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Most distributions are free to use, modify, and distribute.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Support&lt;/strong&gt;: Active communities provide forums, documentation, and support for users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;popular-linux-distributions&#34;&gt;Popular Linux Distributions&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Distribution&lt;/th&gt;
+          &lt;th&gt;Target Audience&lt;/th&gt;
+          &lt;th&gt;Features&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;General users&lt;/td&gt;
+          &lt;td&gt;User-friendly, large community, motivational documentation.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fedora&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Developers and tech enthusiasts&lt;/td&gt;
+          &lt;td&gt;Cutting-edge features, focuses on free software.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CentOS&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Server environments&lt;/td&gt;
+          &lt;td&gt;Stability and long-term support; great for enterprise deployment.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Advanced users and servers&lt;/td&gt;
+          &lt;td&gt;Known for its stability, extensive package repositories.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Advanced users&lt;/td&gt;
+          &lt;td&gt;Rolling release model emphasizes user control and customization.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;unique-characteristics-of-popular-distros&#34;&gt;Unique Characteristics of Popular Distros&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;: Known for its ease of use; ideal for newcomers to Linux.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fedora&lt;/strong&gt;: It offers the latest features and software with a focus on free and open-source software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CentOS&lt;/strong&gt;: Derivative of Red Hat Enterprise Linux, it&amp;rsquo;s favored for server deployments due to its rock-solid stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debian&lt;/strong&gt;: It is known for its rigorous testing and focus on stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;: A minimalistic approach allows users to create a custom Linux environment tailored to their needs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![Linux Distribution Usage Graph]((&lt;a href=&#34;https://kodprog.ru/img/articles-images/39.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kodprog.ru/img/articles-images/39.jpg&lt;/a&gt;)&lt;br&gt;
+&lt;em&gt;Figure 1: Linux Distribution Usage by Percentage&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;choosing-the-right-distribution&#34;&gt;Choosing the Right Distribution&lt;/h4&gt;
+&lt;p&gt;Choosing the right Linux distribution largely depends on your needs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For beginners, &lt;strong&gt;Ubuntu or Linux Mint&lt;/strong&gt; are highly recommended due to their user-friendly interfaces and community support.&lt;/li&gt;
+&lt;li&gt;For users looking for a specific application or environment—like scientific computing—&lt;strong&gt;Debian&lt;/strong&gt; or &lt;strong&gt;Fedora&lt;/strong&gt; may be better suited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CentOS&lt;/strong&gt; and &lt;strong&gt;Red Hat&lt;/strong&gt; are preferred for enterprise environments due to their stability and long-term support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;docker-and-linux-distros&#34;&gt;Docker and Linux Distros&lt;/h4&gt;
+&lt;p&gt;Another aspect of Linux distributions is their compatibility with container technologies like Docker. This is crucial for developers and system administrators as it allows them to deploy applications in a lightweight and isolated environment.&lt;/p&gt;
+&lt;p&gt;![Docker on Linux]((&lt;a href=&#34;https://kodprog.ru/img/articles-images/39.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kodprog.ru/img/articles-images/39.jpg&lt;/a&gt;)&lt;br&gt;
+&lt;em&gt;Figure 2: Docker Architecture on Linux Distributions&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+&lt;p&gt;Linux distributions offer a plethora of options tailored to various users&amp;rsquo; needs, whether for desktop use, server management, or specialized applications. With their open-source nature, users can select and customize distros that best fit their requirements, ensuring extensive flexibility and resources within their operating systems. The Linux community&amp;rsquo;s supportive nature makes transitioning to or experimenting with these distributions accessible for everyone.&lt;/p&gt;
+&lt;h4 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h4&gt;
+&lt;p&gt;To dive deeper into any specific Linux distribution, consider exploring official documentation or community forums. Resources like &lt;a href=&#34;https://www.linuxquestions.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinuxQuestions&lt;/a&gt; or &lt;a href=&#34;https://distrowatch.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DistroWatch&lt;/a&gt; are also excellent starting points.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 Пост по прошедшей неделе 26 мая - 1 июня</title>
+      <link>https://svzhukova.github.io/weeklast/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://svzhukova.github.io/weeklast/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#программирование&#34;&gt;Программирование&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#иностранные-языки&#34;&gt;Иностранные языки&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h1 id=&#34;неделя-была-спокойная&#34;&gt;Неделя была спокойная&lt;/h1&gt;
+&lt;p&gt;Пар уже почти нет, было много свободного времени и хорошая погода, поэтому я много гуляла по Москве&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cultshow.ru/wp-content/uploads/2022/02/Depositphotos_277555450_XL-1-scaled.jpg&#34; alt=&#34;Лето&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;программирование&#34;&gt;Программирование&lt;/h2&gt;
+&lt;p&gt;Я защитила 3 лабораторную работу по Технологиям программирования на 4 и начала писать код для последней работы&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://cs9.pikabu.ru/post_img/big/2020/07/04/9/1593871623178098048.jpg&#34; alt=&#34;Программирование&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
+&lt;p&gt;В пятницу были зачеты по английскому и немецкому языку. У меня вышли 5 по обоим предметам&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://dialog-eng.ru/upload/iblock/c41/ac.jpg&#34; alt=&#34;Иностранные языки&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Пост по прошедшей неделе 19-25 мая</title>
-      <link>https://example.com/post/week/</link>
+      <link>https://svzhukova.github.io/post/week/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/week/</guid>
+      <guid>https://svzhukova.github.io/post/week/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -113,9 +309,9 @@
     
     <item>
       <title>✅Пост о прошедшей неделе</title>
-      <link>https://example.com/post/project-management/</link>
+      <link>https://svzhukova.github.io/post/project-management/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
+      <guid>https://svzhukova.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Неделя была не очень насыщенная, так как я болела, но впереди майские праздники!&lt;/p&gt;
 &lt;h2 id=&#34;компьютерный-практикум---arduino-lessons&#34;&gt;Компьютерный практикум - Arduino lessons&lt;/h2&gt;
 &lt;p&gt;На этой неделе был дедлайн по лабораторным работам с микроконтроллерами ардуино. Мы научились зажигать светодид и регулировать его мощность.&lt;/p&gt;
@@ -190,9 +386,9 @@
     
     <item>
       <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>https://svzhukova.github.io/post/get-started/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>https://svzhukova.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -217,34 +413,6 @@
 &lt;p&gt;Я написала код для нахождения числа pi - это было заданием по компьютерному практикуму. Так же я защитил код по предмету Технологии программирования.&lt;/p&gt;
 &lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
 &lt;p&gt;Эту неделю я активно занимаюсь изучением иностранных языков, много внимания уделила английскому и написала сочинение на тему “Modern cities: Disutopia or utopia ?”&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>📈 Пост по прошедшей неделе 2-8 апреля</title>
-      <link>https://example.com/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
-      <description>&lt;h1 id=&#34;эта-неделя-была-сложная&#34;&gt;Эта неделя была сложная&lt;/h1&gt;
-&lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
-&lt;p&gt;Я сделала Лабораторную работу номер 8 по предмету Архитектура компьютеров «операционные системы». В ней я проверяла работала с файлами&lt;/p&gt;
-&lt;h2 id=&#34;программирование&#34;&gt;Программирование&lt;/h2&gt;
-&lt;p&gt;Я написала код для создания поисковой системы - это было заданием по компьютерному практикуму.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
-&lt;p&gt;С командой из моей группы мы защитили презентацию на тему “Modern cities: Disutopia or utopia ?”.&lt;br&gt;
-Я начала изучать последнюю главу учебника по немецкому языку уровня С1.&lt;/p&gt;
-&lt;h2 id=&#34;история-религий&#34;&gt;История религий&lt;/h2&gt;
-&lt;p&gt;Я помотрела фильм &amp;ldquo;Сталкер&amp;rdquo;, который нахожу очень интересным и познавательным&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>
     

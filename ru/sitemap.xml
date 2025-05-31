@@ -5,14 +5,44 @@
     <loc>https://svzhukova.github.io/ru/event/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/event/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/event/example/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/event/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/event/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/linux/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/linux/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/linux/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/weeklast/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
@@ -21,18 +51,58 @@
     <loc>https://svzhukova.github.io/ru/tags/academic/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/academic/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/academic/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/hugo-blox/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/hugo-blox/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/hugo-blox/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/markdown/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/markdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/markdown/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
@@ -51,86 +121,296 @@
     <loc>https://svzhukova.github.io/ru/post/week/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/week/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/week/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/proglang/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/proglang/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/proglang/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/hugo/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/hugo/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/hugo-blox-builder/</loc>
     <lastmod>2025-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/hugo-blox-builder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/hugo-blox-builder/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/project/scikit/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/project/scikit/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/project/scikit/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/project/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/project/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/wowchemy/</loc>
     <lastmod>2025-05-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/wowchemy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/wowchemy/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/project-management/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/project-management/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/project-management/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/presentation-make/</loc>
     <lastmod>2025-05-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/presentation-make/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/presentation-make/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/get-started/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/get-started/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/ci/cd/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/ci/cd/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/ci/cd/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/second-brain/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/second-brain/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/second-brain/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/projects/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/data-visualization/</loc>
     <lastmod>2023-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/data-visualization/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/data-visualization/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/post/teach-courses/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/teach-courses/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/teach-courses/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/experience/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/javascript/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/javascript/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/javascript/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/teaching/js/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/teaching/js/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/teaching/js/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/teaching/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/teaching/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/teaching/python/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/python/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/python/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/python/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/teaching/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/teaching/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
@@ -149,14 +429,44 @@
     <loc>https://svzhukova.github.io/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication/preprint/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication_types/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication_types/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication_types/article/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/large-language-models/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/large-language-models/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/large-language-models/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -175,25 +485,85 @@
     <loc>https://svzhukova.github.io/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication/journal-article/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication_types/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication_types/article-journal/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication_types/article-journal/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/source-themes/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/tags/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/tags/source-themes/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication/conference-paper/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/publication_types/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/publication_types/paper-conference/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/publication_types/paper-conference/"
+                />
   </url>
 </urlset>

@@ -2,21 +2,124 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Hugo Academic CV Theme</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://svzhukova.github.io/post/</link>
+      <atom:link href="https://svzhukova.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>https://svzhukova.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
-      <link>https://example.com/post/</link>
+      <link>https://svzhukova.github.io/post/</link>
     </image>
     
     <item>
+      <title>🎉 Linux Distributions</title>
+      <link>https://svzhukova.github.io/post/linux/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://svzhukova.github.io/post/linux/</guid>
+      <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
+
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#linux-distributions-an-overview&#34;&gt;Linux Distributions: An Overview&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;linux-distributions-an-overview&#34;&gt;Linux Distributions: An Overview&lt;/h3&gt;
+&lt;p&gt;Linux distributions, often referred to as &amp;ldquo;distros,&amp;rdquo; are various versions of the Linux operating system that package the Linux kernel, software, and libraries to provide a complete operating system for users. Each distribution caters to different needs, ranging from general-purpose desktop environments to specialized systems suited for servers or scientific computing.&lt;/p&gt;
+&lt;h4 id=&#34;what-is-a-linux-distribution&#34;&gt;What is a Linux Distribution?&lt;/h4&gt;
+&lt;p&gt;A Linux distribution is a collection of software that includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Linux kernel: Essential for interacting with your hardware.&lt;/li&gt;
+&lt;li&gt;System libraries and utilities: These are tools that allow the user to manage and interact with the system.&lt;/li&gt;
+&lt;li&gt;Package management system: Tools to install, update, and manage installed software applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;common-features-of-linux-distributions&#34;&gt;Common Features of Linux Distributions&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Open Source&lt;/strong&gt;: Most distributions are free to use, modify, and distribute.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Community Support&lt;/strong&gt;: Active communities provide forums, documentation, and support for users.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;popular-linux-distributions&#34;&gt;Popular Linux Distributions&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Distribution&lt;/th&gt;
+          &lt;th&gt;Target Audience&lt;/th&gt;
+          &lt;th&gt;Features&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;General users&lt;/td&gt;
+          &lt;td&gt;User-friendly, large community, motivational documentation.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fedora&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Developers and tech enthusiasts&lt;/td&gt;
+          &lt;td&gt;Cutting-edge features, focuses on free software.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;CentOS&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Server environments&lt;/td&gt;
+          &lt;td&gt;Stability and long-term support; great for enterprise deployment.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Debian&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Advanced users and servers&lt;/td&gt;
+          &lt;td&gt;Known for its stability, extensive package repositories.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Advanced users&lt;/td&gt;
+          &lt;td&gt;Rolling release model emphasizes user control and customization.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;unique-characteristics-of-popular-distros&#34;&gt;Unique Characteristics of Popular Distros&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ubuntu&lt;/strong&gt;: Known for its ease of use; ideal for newcomers to Linux.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fedora&lt;/strong&gt;: It offers the latest features and software with a focus on free and open-source software.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CentOS&lt;/strong&gt;: Derivative of Red Hat Enterprise Linux, it&amp;rsquo;s favored for server deployments due to its rock-solid stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Debian&lt;/strong&gt;: It is known for its rigorous testing and focus on stability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arch Linux&lt;/strong&gt;: A minimalistic approach allows users to create a custom Linux environment tailored to their needs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![Linux Distribution Usage Graph]((&lt;a href=&#34;https://kodprog.ru/img/articles-images/39.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kodprog.ru/img/articles-images/39.jpg&lt;/a&gt;)&lt;br&gt;
+&lt;em&gt;Figure 1: Linux Distribution Usage by Percentage&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;choosing-the-right-distribution&#34;&gt;Choosing the Right Distribution&lt;/h4&gt;
+&lt;p&gt;Choosing the right Linux distribution largely depends on your needs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For beginners, &lt;strong&gt;Ubuntu or Linux Mint&lt;/strong&gt; are highly recommended due to their user-friendly interfaces and community support.&lt;/li&gt;
+&lt;li&gt;For users looking for a specific application or environment—like scientific computing—&lt;strong&gt;Debian&lt;/strong&gt; or &lt;strong&gt;Fedora&lt;/strong&gt; may be better suited.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CentOS&lt;/strong&gt; and &lt;strong&gt;Red Hat&lt;/strong&gt; are preferred for enterprise environments due to their stability and long-term support.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;docker-and-linux-distros&#34;&gt;Docker and Linux Distros&lt;/h4&gt;
+&lt;p&gt;Another aspect of Linux distributions is their compatibility with container technologies like Docker. This is crucial for developers and system administrators as it allows them to deploy applications in a lightweight and isolated environment.&lt;/p&gt;
+&lt;p&gt;![Docker on Linux]((&lt;a href=&#34;https://kodprog.ru/img/articles-images/39.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://kodprog.ru/img/articles-images/39.jpg&lt;/a&gt;)&lt;br&gt;
+&lt;em&gt;Figure 2: Docker Architecture on Linux Distributions&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h4&gt;
+&lt;p&gt;Linux distributions offer a plethora of options tailored to various users&amp;rsquo; needs, whether for desktop use, server management, or specialized applications. With their open-source nature, users can select and customize distros that best fit their requirements, ensuring extensive flexibility and resources within their operating systems. The Linux community&amp;rsquo;s supportive nature makes transitioning to or experimenting with these distributions accessible for everyone.&lt;/p&gt;
+&lt;h4 id=&#34;further-reading&#34;&gt;Further Reading&lt;/h4&gt;
+&lt;p&gt;To dive deeper into any specific Linux distribution, consider exploring official documentation or community forums. Resources like &lt;a href=&#34;https://www.linuxquestions.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinuxQuestions&lt;/a&gt; or &lt;a href=&#34;https://distrowatch.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DistroWatch&lt;/a&gt; are also excellent starting points.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Пост по прошедшей неделе 19-25 мая</title>
-      <link>https://example.com/post/week/</link>
+      <link>https://svzhukova.github.io/post/week/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/week/</guid>
+      <guid>https://svzhukova.github.io/post/week/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -113,9 +216,9 @@
     
     <item>
       <title>👩🏼‍🏫 Языки научного программирования</title>
-      <link>https://example.com/post/proglang/</link>
+      <link>https://svzhukova.github.io/post/proglang/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/proglang/</guid>
+      <guid>https://svzhukova.github.io/post/proglang/</guid>
       <description>&lt;h3 id=&#34;python-c-html-c-c&#34;&gt;Python, C++, HTML, C, C#&lt;/h3&gt;
 &lt;p&gt;Эти языки программирования и разметки имеют различные назначения и области применения. Давайте подробнее рассмотрим каждый из них.&lt;/p&gt;
 &lt;h4 id=&#34;1-python&#34;&gt;1. Python&lt;/h4&gt;
@@ -265,9 +368,9 @@
     
     <item>
       <title>✅Пост о прошедшей неделе</title>
-      <link>https://example.com/post/project-management/</link>
+      <link>https://svzhukova.github.io/post/project-management/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/project-management/</guid>
+      <guid>https://svzhukova.github.io/post/project-management/</guid>
       <description>&lt;p&gt;Неделя была не очень насыщенная, так как я болела, но впереди майские праздники!&lt;/p&gt;
 &lt;h2 id=&#34;компьютерный-практикум---arduino-lessons&#34;&gt;Компьютерный практикум - Arduino lessons&lt;/h2&gt;
 &lt;p&gt;На этой неделе был дедлайн по лабораторным работам с микроконтроллерами ардуино. Мы научились зажигать светодид и регулировать его мощность.&lt;/p&gt;
@@ -342,9 +445,9 @@
     
     <item>
       <title>👩🏼‍🏫 Создание презентаций Markdown</title>
-      <link>https://example.com/post/presentation-make/</link>
+      <link>https://svzhukova.github.io/post/presentation-make/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/presentation-make/</guid>
+      <guid>https://svzhukova.github.io/post/presentation-make/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
 &lt;p&gt;Вот обновленная статья о создании презентаций в формате Markdown с добавлением эмоджи и информации о форматировании текста.&lt;/p&gt;
@@ -442,9 +545,9 @@
     
     <item>
       <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
-      <link>https://example.com/post/get-started/</link>
+      <link>https://svzhukova.github.io/post/get-started/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/get-started/</guid>
+      <guid>https://svzhukova.github.io/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -474,9 +577,9 @@
     
     <item>
       <title>🧠 Непрерывная интеграция и непрерывное развертывание (CI/CD).</title>
-      <link>https://example.com/post/second-brain/</link>
+      <link>https://svzhukova.github.io/post/second-brain/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/second-brain/</guid>
+      <guid>https://svzhukova.github.io/post/second-brain/</guid>
       <description>&lt;h1 id=&#34;о-методологии-cicd-простыми-словами--принципы-этапы-плюсы-и-минусы&#34;&gt;О методологии CI/CD простыми словами — принципы, этапы, плюсы и минусы&lt;/h1&gt;
 &lt;h2 id=&#34;подход-cicd-в-последнее-время-много-обсуждается-в-it&#34;&gt;Подход CI/CD в последнее время много обсуждается в IT.&lt;/h2&gt;
 &lt;p&gt;Он часто используется для создания приложений или разработки облачных решений. Но как строится работа по этой методологии и насколько сложно ее внедрить на практике? Об этом мы расскажем в статье.&lt;/p&gt;
@@ -512,38 +615,10 @@
     </item>
     
     <item>
-      <title>📈 Пост по прошедшей неделе 2-8 апреля</title>
-      <link>https://example.com/post/data-visualization/</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/data-visualization/</guid>
-      <description>&lt;h1 id=&#34;эта-неделя-была-сложная&#34;&gt;Эта неделя была сложная&lt;/h1&gt;
-&lt;h2 id=&#34;архитектура-компьютеров&#34;&gt;Архитектура компьютеров&lt;/h2&gt;
-&lt;p&gt;Я сделала Лабораторную работу номер 8 по предмету Архитектура компьютеров «операционные системы». В ней я проверяла работала с файлами&lt;/p&gt;
-&lt;h2 id=&#34;программирование&#34;&gt;Программирование&lt;/h2&gt;
-&lt;p&gt;Я написала код для создания поисковой системы - это было заданием по компьютерному практикуму.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
-&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
-  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
-  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
-  class=&#34;w-full h-full&#34;
-  &gt;&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;h2 id=&#34;иностранные-языки&#34;&gt;Иностранные языки&lt;/h2&gt;
-&lt;p&gt;С командой из моей группы мы защитили презентацию на тему “Modern cities: Disutopia or utopia ?”.&lt;br&gt;
-Я начала изучать последнюю главу учебника по немецкому языку уровня С1.&lt;/p&gt;
-&lt;h2 id=&#34;история-религий&#34;&gt;История религий&lt;/h2&gt;
-&lt;p&gt;Я помотрела фильм &amp;ldquo;Сталкер&amp;rdquo;, который нахожу очень интересным и познавательным&lt;/p&gt;
-&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>👩🏼‍🏫 Язык разметки Markdown</title>
-      <link>https://example.com/post/teach-courses/</link>
+      <link>https://svzhukova.github.io/post/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/teach-courses/</guid>
+      <guid>https://svzhukova.github.io/post/teach-courses/</guid>
       <description>&lt;h2 id=&#34;что-такое-markdown&#34;&gt;Что такое Markdown?&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://habitica.fandom.com/ruwiki%D0%A8%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0_%D0%BF%D0%BE_Markdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Markdown&lt;/a&gt;  — это &lt;em&gt;легковесный язык разметки&lt;/em&gt;, предназначенный для форматирования текста. Он позволяет быстро и просто создавать структурированные документы, которые затем можно конвертировать в HTML, PDF и другие форматы. Markdown был создан Джоном Грубером в 2004 году с целью сделать написание для интернета более удобным и читаемым.&lt;/p&gt;
 &lt;h3 id=&#34;почему-markdown-так-популярен&#34;&gt;Почему Markdown так популярен?&lt;/h3&gt;
@@ -615,6 +690,56 @@
 &lt;li&gt;Синтаксис Markdown интуитивно понятен и легок для запоминания.&lt;/li&gt;
 &lt;li&gt;Markdown идеален для написания документации, ведения блогов, создания заметок и многого другого.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://svzhukova.github.io/post/data-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://svzhukova.github.io/post/data-visualization/</guid>
+      <description>&lt;p&gt;title: 📈 Post for the Week of April 2-8&lt;/p&gt;
+&lt;p&gt;summary: I will talk about the learning process this week.&lt;/p&gt;
+&lt;p&gt;date: 2023-10-25&lt;/p&gt;
+&lt;p&gt;authors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;admin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hugo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hugo Blox&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;image:&lt;/p&gt;
+&lt;p&gt;caption: &amp;lsquo;Image credit: &lt;a href=&#34;https://unsplash.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Unsplash&lt;/strong&gt;&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;this-week-was-challenging&#34;&gt;This Week Was Challenging&lt;/h1&gt;
+&lt;h2 id=&#34;computer-architecture&#34;&gt;Computer Architecture&lt;/h2&gt;
+&lt;p&gt;I completed Laboratory Work No. 8 for the subject of Computer Architecture &amp;ldquo;Operating Systems.&amp;rdquo; In it, I worked with files.&lt;/p&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
+&lt;p&gt;I wrote code to create a search engine as part of my computer practical assignment.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bilibili&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{&amp;lt; bilibili BV1WV4y1r7DF &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;div class=&#34;w-full h-auto aspect-video relative&#34;&gt;
+  &lt;iframe src=&#34;//player.bilibili.com/player.html?bvid=BV1WV4y1r7DF&amp;page=1&#34;
+  allow=&#34;accelerometer; clipboard-write; encrypted-media; gyroscope; fullscreen; picture-in-picture;&#34;
+  class=&#34;w-full h-full&#34;
+  &gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;foreign-languages&#34;&gt;Foreign Languages&lt;/h2&gt;
+&lt;p&gt;With my group team, we presented on the topic &amp;ldquo;Modern Cities: Dystopia or Utopia?&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I started studying the last chapter of the C1 level German language textbook.&lt;/p&gt;
+&lt;h2 id=&#34;history-of-religions&#34;&gt;History of Religions&lt;/h2&gt;
+&lt;p&gt;I watched the film &amp;ldquo;Stalker,&amp;rdquo; which I find very interesting and educational.&lt;/p&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
 </description>
     </item>
