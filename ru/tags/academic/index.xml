@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/tags/academic/</link>
-      <atom:link href="https://example.com/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/tags/academic/</link>
+      <atom:link href="http://localhost:1313/ru/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Academic</title>
-      <link>https://example.com/ru/tags/academic/</link>
+      <link>http://localhost:1313/ru/tags/academic/</link>
     </image>
     
     <item>
       <title>🎉 Дистрибутивы Linux</title>
-      <link>https://example.com/ru/post/linux/</link>
+      <link>http://localhost:1313/ru/post/linux/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/linux/</guid>
+      <guid>http://localhost:1313/ru/post/linux/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -157,9 +157,9 @@
     
     <item>
       <title>🎉 Пост по прошедшей неделе 26 мая - 1 июня</title>
-      <link>https://example.com/ru/post/weeklast/</link>
+      <link>http://localhost:1313/ru/post/weeklast/</link>
       <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/weeklast/</guid>
+      <guid>http://localhost:1313/ru/post/weeklast/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -250,9 +250,9 @@
     
     <item>
       <title>🎉 Пост по прошедшей неделе 19-25 мая</title>
-      <link>https://example.com/ru/post/week/</link>
+      <link>http://localhost:1313/ru/post/week/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/week/</guid>
+      <guid>http://localhost:1313/ru/post/week/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -349,9 +349,9 @@
     
     <item>
       <title>🎉 Пост по прошедшей неделе 17-23 марта</title>
-      <link>https://example.com/ru/post/get-started/</link>
+      <link>http://localhost:1313/ru/post/get-started/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/get-started/</guid>
+      <guid>http://localhost:1313/ru/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 

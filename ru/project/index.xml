@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Hugo Academic CV Theme</title>
-    <link>https://example.com/ru/project/</link>
-      <atom:link href="https://example.com/ru/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/ru/project/</link>
+      <atom:link href="http://localhost:1313/ru/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 10 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
       <title>Projects</title>
-      <link>https://example.com/ru/project/</link>
+      <link>http://localhost:1313/ru/project/</link>
     </image>
     
     <item>
       <title>Github Labs</title>
-      <link>https://example.com/ru/project/scikit/</link>
+      <link>http://localhost:1313/ru/project/scikit/</link>
       <pubDate>Sat, 10 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/project/scikit/</guid>
+      <guid>http://localhost:1313/ru/project/scikit/</guid>
       <description>&lt;p&gt;Суть проекта - выполнять лабораторные работы, знакомиться с Linux&lt;/p&gt;</description>
     </item>
     
