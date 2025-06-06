@@ -47,6 +47,16 @@
     <loc>https://svzhukova.github.io/ru/post/weeklast/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://svzhukova.github.io/post/weeklast/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://svzhukova.github.io/ru/post/weeklast/"
+                />
   </url><url>
     <loc>https://svzhukova.github.io/ru/tags/academic/</loc>
     <lastmod>2025-05-31T00:00:00+00:00</lastmod>
